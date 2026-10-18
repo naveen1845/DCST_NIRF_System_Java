@@ -1,0 +1,21 @@
+DCST NIRF System
+s1 name changed: Rahul N
+Count: 1
+Type: STUDENT
+Academic: ISA, SEA, Midpoint, Placements
+Non-Acad: InfoFest, Plateaunia
+public data, protected data, private data
+Outside: public data
+Student: Pooja Roll: 02
+Alert sent to: Rahul N
+Marks: 40
+Total: 55
+Value: MCA Course
+Courses: [MCA, MSc DS, OOT]
+Fest: InfoFest
+Caught: Invalid year
+Finally done
+Error: java.lang.ArithmeticException: / by zero
+Class loaded: Student
+File saved
+Cloned student: Rahul N
